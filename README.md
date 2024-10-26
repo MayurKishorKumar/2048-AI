@@ -1,12 +1,12 @@
 # 2048-AI
 
 ## Overview
-This repository contains an AI implementation for the popular 2048 game. The AI is designed to play the game efficiently and achieve high scores by using optimized algorithms.
+This repository contains an AI implementation for the popular 2048 game. The AI is designed to play the game autonomously, achieving high scores through optimized algorithms and strategic gameplay.
 
 ## Features
-- **Automated Gameplay**: The AI can play the 2048 game autonomously.
-- **Optimization**: Uses advanced algorithms to maximize the score.
-- **Python Implementation**: Entirely written in Python for ease of understanding and modification.
+- **Automated Gameplay**: The AI autonomously plays the 2048 game, making real-time decisions to reach the highest possible tile.
+- **Optimization**: Implements advanced algorithms to maximize scores and improve the likelihood of achieving high tiles.
+- **Python Implementation**: Written entirely in Python, making it easy to understand, modify, and expand.
 
 ## Getting Started
 ### Prerequisites
@@ -17,3 +17,16 @@ This repository contains an AI implementation for the popular 2048 game. The AI 
    ```sh
    git clone https://github.com/MayurKishorKumar/2048-AI.git
    ```
+2. Navigate to the project directory:
+   ```sh
+   cd 2048-AI
+   ```
+
+### Usage
+Run the AI script to start the game:
+```sh
+python ai_2048.py
+```
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request for any enhancements, bug fixes, or additional features.
