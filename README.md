@@ -25,7 +25,7 @@ This repository contains an AI implementation for the popular 2048 game. The AI 
 ### Usage
 Run the AI script to start the game:
 ```sh
-python ai_2048.py
+python game_ai.py
 ```
 
 ## Contributing
